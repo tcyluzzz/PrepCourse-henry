@@ -1,2 +1,2 @@
-# PrepCourse-henry
-Este es un repositorio de prueba del modulo 2 del prepcourse
+este proyecto se trata de copiar un commit de github a mi escritorio
+
